@@ -1,11 +1,28 @@
-My first Interactive React App.
-The project was built from scratch on Scrimba.com
+# co62c4b5f807902e0519cb2f9
 
-Building a Meme-Generator, I learned a lot of things and touched on a good amount of topics.
+Quick start:
 
+```
+$ yarn # npm install
+$ yarn build # npm run build
+````
 
-Event listeners, One of the key components of an interactive web app, is the ability to listen to events.
-State is a crucial topic he learned that allows us to build apps that store dynamic data.
-Conditional rendering was necessary, allowing us to create distinct components that encapsulate the behavior we need.
-Forms & side effects and how to handle side effects in our React code were the last steps in the journey so far. 
-These topics next to the previous 2 sections make up a robust introduction to the React library.
+## Development
+
+Run Webpack in watch-mode to continually compile the JavaScript as you work:
+
+```
+$ yarn watch # npm run watch
+```
+
+## About Scrimba
+
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
